@@ -5,5 +5,6 @@ class Main{
         System.out.println("Коммит 2: ещё изменение");
         System.out.println("Коммит 3: продолжаем");
         System.out.println("Коммит 4: финальное изменение");
+        System.out.print("Это добавлено в ветке dev");
     }
 }
