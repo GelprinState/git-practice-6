@@ -4,5 +4,6 @@ class Main{
         System.out.println("\nКоммит 1: добавлена строка");
         System.out.println("Коммит 2: ещё изменение");
         System.out.println("Коммит 3: продолжаем");
+        System.out.println("Коммит 4: финальное изменение");
     }
 }
